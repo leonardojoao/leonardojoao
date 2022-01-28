@@ -21,6 +21,7 @@ I am interested in innovative technologies, in addition to seeking new challenge
 
 ![Experience](https://user-images.githubusercontent.com/15831786/151555934-e7f32e89-e3d0-4e34-8574-5f2cddb24f90.png)
 
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=leonardojoao&logos=true&branding=false&grid=true&style=--item-border-radius:10px;--logo-size:35px;--company-font-size:11px;--title-font-size:10px;--date-font-size:10px;--location-font-size:10px;width:700px;" />
 
 ![Line Bar](https://user-images.githubusercontent.com/15831786/151555949-9c909ed7-2870-4f45-a6f2-2c5b8a240e09.png)
 
